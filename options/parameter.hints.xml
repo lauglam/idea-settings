@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Rust">
+        <added pattern="alloc::boxed::new(x)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

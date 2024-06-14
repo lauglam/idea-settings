@@ -1,0 +1,6 @@
+IdeaVIM
+IdeaVimExtension
+com.chylex.intellij.inspectionlens
+ru.adelf.idea.dotenv
+net.cicchiello.intellij.settings.intellij-settings-share
+mobi.hsz.idea.gitignore
